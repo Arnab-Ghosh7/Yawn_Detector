@@ -47,7 +47,7 @@ You will also need the Dlib shape predictor model file:
 
 1.  **Clone the Repository**
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/Arnab-Ghosh7/Yawn_Detector.git
     cd Yawn_Detector
     ```
 
@@ -86,4 +86,5 @@ You will also need the Dlib shape predictor model file:
 6.  **Counting Logic**: A counter increments only when the status changes from "Not Yawning" to "Yawning" to avoid multiple counts for a single yawn event.
 
 ---
-*Created for educational purposes.*
+# Author
+Arnab Ghosh
