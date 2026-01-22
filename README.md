@@ -47,7 +47,7 @@ You will also need the Dlib shape predictor model file:
 
 1.  **Clone the Repository**
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/Arnab-Ghosh7/Yawn_Detector.git
     cd Yawn_Detector
     ```
 
