@@ -1,6 +1,6 @@
 # Yawn Detector and Counter
 
-![Python](https://img.shields.io/badge/Language-Python-blue)
+
 
 A real-time computer vision application that detects when a subject is yawning and counts the number of yawns in a session. This project utilizes facial landmarks detection to monitor the mouth's aspect ratio.
 
