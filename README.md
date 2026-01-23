@@ -5,7 +5,13 @@
 A real-time computer vision application that detects when a subject is yawning and counts the number of yawns in a session. This project utilizes facial landmarks detection to monitor the mouth's aspect ratio.
 
 ## 📋 Table of Contents
-
+- [Description](#description)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
+- [How it Works](#how-it-works)
 
 ## 📝 Description
 The **Yawn Detector and Counting** system is a computer vision application designed to monitor user fatigue by detecting yawns in real-time. Drowsiness and fatigue are significant factors in accidents and decreased productivity, makes automated monitoring systems crucial for safety and efficiency.
