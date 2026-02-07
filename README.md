@@ -14,9 +14,7 @@ A real-time computer vision application that detects when a subject is yawning a
 - [How it Works](#how-it-works)
 
 ## 📝 Description
-The **Yawn Detector and Counting** system is a computer vision application designed to monitor user fatigue by detecting yawns in real-time. Drowsiness and fatigue are significant factors in accidents and decreased productivity, makes automated monitoring systems crucial for safety and efficiency.
 
-Measurement of yawning frequency is a reliable physiological indicator of drowsiness. This project leverages **Dlib's 68 facial landmark predictor** to map the facial geometry and specifically target the mouth region. By continuously calculating the vertical distance (aspect ratio) between the upper and lower lips, the algorithm identifies when the mouth opens beyond a specific threshold, characterizing a yawn.
 
 **Key capabilities include:**
 - **Precision Tracking**: Uses robust facial landmark detection to maintain accuracy even with slight head movements.
